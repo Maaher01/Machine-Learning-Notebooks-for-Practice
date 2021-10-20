@@ -1,1 +1,1 @@
-# Machine-Learning-Practice-Notebooks
+# Machine-Learning-Notebooks-for-Practice
